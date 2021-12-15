@@ -1,5 +1,4 @@
-# Marvel Master Reading Order
-Link to the order: https://comicbookreadingorders.com/marvel/marvel-master-reading-order/
+# [Marvel Master Reading Order](https://comicbookreadingorders.com/marvel/marvel-master-reading-order/)
 
 
 | Book # | Name | Progress | 
