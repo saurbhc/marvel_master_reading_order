@@ -1,7 +1,7 @@
 # [Marvel Master Reading Order](https://comicbookreadingorders.com/marvel/marvel-master-reading-order/)
 
 
-| Book # | Name | Progress | 
+| Thor-Son-of-Asgard | Name | Progress | 
 |:---:|:---|:---:|
 | - | Name/Link to Comic Book | - |
 | 01 | [Thor: Son of Asgard Issue #1](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-1?id=57057) | ✓ |
