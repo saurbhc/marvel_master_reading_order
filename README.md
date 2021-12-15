@@ -2,7 +2,7 @@
 Link to the order: https://comicbookreadingorders.com/marvel/marvel-master-reading-order/
 
 
-| Counter | Name | Progress | 
+| Book # | Name | Progress | 
 |:---:|:---|:---:|
 | - | Name/Link to Comic Book | - |
 | 01 | [Thor: Son of Asgard Issue #1](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-1?id=57057) | ✓ |
