@@ -10,6 +10,6 @@
 | 04 | [Thor: Son of Asgard Issue #4](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-4?id=57071) | ✓ |
 | 05 | [Thor: Son of Asgard Issue #5](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-5?id=57074) | ✓ |
 | 06 | [Thor: Son of Asgard Issue #6](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-6?id=57076) | ✓ |
-| 07 | [Thor: Son of Asgard Issue #7](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-7?id=57079) |  |
+| 07 | [Thor: Son of Asgard Issue #7](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-7?id=57079) | ✓ |
 | 08 | [Thor: Son of Asgard Issue #8]() |  |
 | 09 | []() |  |
