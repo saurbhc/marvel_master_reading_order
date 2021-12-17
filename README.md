@@ -16,7 +16,6 @@
 | 10 | [Thor: Son of Asgard Issue #10](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-10?id=57059) |  |
 | 11 | [Thor: Son of Asgard Issue #11](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-11?id=57061) |  |
 | 12 | [Thor: Son of Asgard Issue #12](https://readcomiconline.li/Comic/Thor-Son-of-Asgard/Issue-12?id=57062) |  |
-
 | [Origin (2001)](https://www.marvel.com/comics/issue/10574/wolverine_the_origin_2001_1) | Name/Link to Comic Book | - |
 | 01 | [Origin #1]() |  |
 | 02 | [Origin #2]() |  |
@@ -24,7 +23,6 @@
 | 04 | [Origin #4]() |  |
 | 05 | [Origin #5]() |  |
 | 06 | [Origin #6]() |  |
-
 | [Origin II (2014)](https://www.marvel.com/comics/series/17926/origin_ii_2013_-_2014) | Name/Link to Comic Book | - |
 | 01 | [Origin II #1]() |  |
 | 02 | [Origin II #2]() |  |
