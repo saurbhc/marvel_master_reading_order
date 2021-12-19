@@ -20,12 +20,12 @@
 | 01 | [Origin #1](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-1?id=51314``) | ✓ |
 | 02 | [Origin #2](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-2?id=51315) | ✓ |
 | 03 | [Origin #3](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-3?id=51316) | ✓ |
-| 04 | [Origin #4](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-4?id=51317) |  |
-| 05 | [Origin #5](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-5?id=51318) |  |
-| 06 | [Origin #6](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-6?id=51319) |  |
+| 04 | [Origin #4](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-4?id=51317) | ✓ |
+| 05 | [Origin #5](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-5?id=51318) | ✓ |
+| 06 | [Origin #6](https://readcomiconline.li/Comic/Wolverine-The-Origin/Issue-6?id=51319) | ✓ |
 | [Origin II (2014)](https://www.marvel.com/comics/series/17926/origin_ii_2013_-_2014) | Name/Link to Comic Book | - |
-| 01 | [Origin II #1]() |  |
-| 02 | [Origin II #2]() |  |
-| 03 | [Origin II #3]() |  |
-| 04 | [Origin II #4]() |  |
-| 05 | [Origin II #5]() |  |
+| 01 | [Origin II #1](https://readcomiconline.li/Comic/Origin-II/Issue-1?id=41628) |  |
+| 02 | [Origin II #2](https://readcomiconline.li/Comic/Origin-II/Issue-2?id=41629) |  |
+| 03 | [Origin II #3](https://readcomiconline.li/Comic/Origin-II/Issue-3?id=41630) |  |
+| 04 | [Origin II #4](https://readcomiconline.li/Comic/Origin-II/Issue-4?id=41631) |  |
+| 05 | [Origin II #5](https://readcomiconline.li/Comic/Origin-II/Issue-5?id=41632) |  |
